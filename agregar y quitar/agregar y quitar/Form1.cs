@@ -16,5 +16,24 @@ namespace agregar_y_quitar
         {
             InitializeComponent();
         }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add(textBox1.Text);
+
+            textBox1.Text =" ";
+
+        }
+
+        private void btnQuitar_Click(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedIndex != -1)
+                listBox1.Items.RemoveAt(listBox1.SelectedIndex);
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

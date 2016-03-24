@@ -1,1 +1,9 @@
 C:\Users\Victor Ro\Desktop\programaGit\agregar y quitar\agregar y quitar\bin\Debug\agregar y quitar.exe.config
+C:\Users\Victor Ro\Desktop\programaGit\agregar y quitar\agregar y quitar\bin\Debug\agregar y quitar.exe
+C:\Users\Victor Ro\Desktop\programaGit\agregar y quitar\agregar y quitar\bin\Debug\agregar y quitar.pdb
+C:\Users\Victor Ro\Desktop\programaGit\agregar y quitar\agregar y quitar\obj\Debug\agregar y quitar.csprojResolveAssemblyReference.cache
+C:\Users\Victor Ro\Desktop\programaGit\agregar y quitar\agregar y quitar\obj\Debug\agregar_y_quitar.Form1.resources
+C:\Users\Victor Ro\Desktop\programaGit\agregar y quitar\agregar y quitar\obj\Debug\agregar_y_quitar.Properties.Resources.resources
+C:\Users\Victor Ro\Desktop\programaGit\agregar y quitar\agregar y quitar\obj\Debug\agregar y quitar.csproj.GenerateResource.Cache
+C:\Users\Victor Ro\Desktop\programaGit\agregar y quitar\agregar y quitar\obj\Debug\agregar y quitar.exe
+C:\Users\Victor Ro\Desktop\programaGit\agregar y quitar\agregar y quitar\obj\Debug\agregar y quitar.pdb
